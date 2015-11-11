@@ -1,0 +1,110 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2015-11-05T22:08:01Z",
+  "lang": "uk",
+  "results": {
+   "channel": {
+    "title": "Yahoo! Weather - Greenland, GL",
+    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Greenland__GL/*http://weather.yahoo.com/forecast/GLXX0012_f.html",
+    "description": "Yahoo! Weather for Greenland, GL",
+    "language": "en-us",
+    "lastBuildDate": "Thu, 05 Nov 2015 6:51 pm CGT",
+    "ttl": "60",
+    "location": {
+     "city": "Greenland",
+     "country": "Greenland",
+     "region": ""
+    },
+    "units": {
+     "distance": "mi",
+     "pressure": "in",
+     "speed": "mph",
+     "temperature": "F"
+    },
+    "wind": {
+     "chill": "-1",
+     "direction": "140",
+     "speed": "6"
+    },
+    "atmosphere": {
+     "humidity": "36",
+     "pressure": "29.71",
+     "rising": "0",
+     "visibility": "6.21"
+    },
+    "astronomy": {
+     "sunrise": "9:04 am",
+     "sunset": "3:09 pm"
+    },
+    "image": {
+     "title": "Yahoo! Weather",
+     "width": "142",
+     "height": "18",
+     "link": "http://weather.yahoo.com",
+     "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+    },
+    "item": {
+     "title": "Conditions for Greenland, GL at 6:51 pm CGT",
+     "lat": "71.8",
+     "long": "-42.18",
+     "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Greenland__GL/*http://weather.yahoo.com/forecast/GLXX0012_f.html",
+     "pubDate": "Thu, 05 Nov 2015 6:51 pm CGT",
+     "condition": {
+      "code": "3200",
+      "date": "Thu, 05 Nov 2015 6:51 pm CGT",
+      "temp": "9",
+      "text": "Unknown"
+     },
+     "description": "\n<img src=\"http://l.yimg.com/a/i/us/we/52/3200.gif\"/><br />\n<b>Current Conditions:</b><br />\nUnknown, 9 F<BR />\n<BR /><b>Forecast:</b><BR />\nThu - Mostly Clear. High: 11 Low: -1<br />\nFri - Sunny. High: 1 Low: -2<br />\nSat - Partly Cloudy. High: 6 Low: 1<br />\nSun - Mostly Sunny. High: 6 Low: -5<br />\nMon - Mostly Sunny. High: -2 Low: -6<br />\n<br />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Greenland__GL/*http://weather.yahoo.com/forecast/GLXX0012_f.html\">Full Forecast at Yahoo! Weather</a><BR/><BR/>\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)<br/>\n",
+     "forecast": [
+      {
+       "code": "33",
+       "date": "5 Nov 2015",
+       "day": "Thu",
+       "high": "11",
+       "low": "-1",
+       "text": "Mostly Clear"
+      },
+      {
+       "code": "32",
+       "date": "6 Nov 2015",
+       "day": "Fri",
+       "high": "1",
+       "low": "-2",
+       "text": "Sunny"
+      },
+      {
+       "code": "30",
+       "date": "7 Nov 2015",
+       "day": "Sat",
+       "high": "6",
+       "low": "1",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "34",
+       "date": "8 Nov 2015",
+       "day": "Sun",
+       "high": "6",
+       "low": "-5",
+       "text": "Mostly Sunny"
+      },
+      {
+       "code": "34",
+       "date": "9 Nov 2015",
+       "day": "Mon",
+       "high": "-2",
+       "low": "-6",
+       "text": "Mostly Sunny"
+      }
+     ],
+     "guid": {
+      "isPermaLink": "false",
+      "content": "GLXX0012_2015_11_09_7_00_CGT"
+     }
+    }
+   }
+  }
+ }
+}

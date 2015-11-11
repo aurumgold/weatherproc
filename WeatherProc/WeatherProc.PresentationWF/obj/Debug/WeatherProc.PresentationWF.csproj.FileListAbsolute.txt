@@ -1,0 +1,9 @@
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\bin\Debug\WeatherProc.PresentationWF.exe.config
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\bin\Debug\WeatherProc.PresentationWF.exe
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\bin\Debug\WeatherProc.PresentationWF.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\obj\Debug\WeatherProc.PresentationWF.csprojResolveAssemblyReference.cache
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\obj\Debug\WeatherProc.PresentationWF.Form1.resources
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\obj\Debug\WeatherProc.PresentationWF.Properties.Resources.resources
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\obj\Debug\WeatherProc.PresentationWF.csproj.GenerateResource.Cache
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\obj\Debug\WeatherProc.PresentationWF.exe
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.PresentationWF\obj\Debug\WeatherProc.PresentationWF.pdb

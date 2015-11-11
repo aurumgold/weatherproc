@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<weatherdata>
+  <location>
+    <name>London</name>
+    <type/>
+    <country>GB</country>
+    <timezone/>
+    <location altitude="0" latitude="51.50853" longitude="-0.12574" geobase="geonames" geobaseid="2643743"/>
+  </location>
+  <credit/>
+  <meta>
+    <lastupdate/>
+    <calctime>0.0106</calctime>
+    <nextupdate/>
+  </meta>
+  <sun rise="2015-11-05T07:01:37" set="2015-11-05T16:25:49"/>
+  <forecast>
+    <time day="2015-11-05">
+      <symbol number="501" name="moderate rain" var="10d"/>
+      <precipitation value="5.58" type="rain"/>
+      <windDirection deg="203" code="SSW" name="South-southwest"/>
+      <windSpeed mps="6.11" name="Moderate breeze"/>
+      <temperature day="13.4" min="12.38" max="13.4" night="13.14" eve="12.38" morn="13.4"/>
+      <pressure unit="hPa" value="1018.32"/>
+      <humidity value="97" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time day="2015-11-06">
+      <symbol number="501" name="moderate rain" var="10d"/>
+      <precipitation value="3.57" type="rain"/>
+      <windDirection deg="196" code="SSW" name="South-southwest"/>
+      <windSpeed mps="8.12" name="Fresh Breeze"/>
+      <temperature day="14.45" min="11.47" max="16.1" night="12.75" eve="14.89" morn="11.55"/>
+      <pressure unit="hPa" value="1018.14"/>
+      <humidity value="96" unit="%"/>
+      <clouds value="overcast clouds" all="100" unit="%"/>
+    </time>
+    <time day="2015-11-07">
+      <symbol number="501" name="moderate rain" var="10d"/>
+      <precipitation value="7.04" type="rain"/>
+      <windDirection deg="215" code="SW" name="Southwest"/>
+      <windSpeed mps="11.17" name="Strong breeze"/>
+      <temperature day="16.5" min="9.47" max="16.5" night="9.47" eve="12" morn="13.31"/>
+      <pressure unit="hPa" value="1018.25"/>
+      <humidity value="95" unit="%"/>
+      <clouds value="scattered clouds" all="48" unit="%"/>
+    </time>
+    <time day="2015-11-08">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="0.27" type="rain"/>
+      <windDirection deg="176" code="S" name="South"/>
+      <windSpeed mps="7.71" name="Moderate breeze"/>
+      <temperature day="14.5" min="9.12" max="15.76" night="13.26" eve="14.92" morn="9.12"/>
+      <pressure unit="hPa" value="1022.76"/>
+      <humidity value="96" unit="%"/>
+      <clouds value="broken clouds" all="80" unit="%"/>
+    </time>
+    <time day="2015-11-09">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="1.27" type="rain"/>
+      <windDirection deg="228" code="SW" name="Southwest"/>
+      <windSpeed mps="12.71" name="Strong breeze"/>
+      <temperature day="12.95" min="10.51" max="15.09" night="15.09" eve="14.81" morn="10.51"/>
+      <pressure unit="hPa" value="1023.32"/>
+      <humidity value="78" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time day="2015-11-10">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="1.86" type="rain"/>
+      <windDirection deg="232" code="SW" name="Southwest"/>
+      <windSpeed mps="10.3" name="Fresh Breeze"/>
+      <temperature day="15.53" min="14.26" max="16.01" night="15.5" eve="16.01" morn="14.26"/>
+      <pressure unit="hPa" value="1020.74"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="overcast clouds" all="99" unit="%"/>
+    </time>
+    <time day="2015-11-11">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="0.41" type="rain"/>
+      <windDirection deg="222" code="SW" name="Southwest"/>
+      <windSpeed mps="6.89" name="Moderate breeze"/>
+      <temperature day="14.96" min="12.8" max="14.96" night="13.27" eve="14.28" morn="12.8"/>
+      <pressure unit="hPa" value="1026.41"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="scattered clouds" all="35" unit="%"/>
+    </time>
+    <time day="2015-11-12">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="2" type="rain"/>
+      <windDirection deg="312" code="NW" name="Northwest"/>
+      <windSpeed mps="5.83" name="Moderate breeze"/>
+      <temperature day="12.97" min="5.2" max="14.73" night="5.2" eve="8.29" morn="14.73"/>
+      <pressure unit="hPa" value="1022.05"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="overcast clouds" all="87" unit="%"/>
+    </time>
+    <time day="2015-11-13">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="2.1" type="rain"/>
+      <windDirection deg="235" code="SW" name="Southwest"/>
+      <windSpeed mps="9.31" name="Fresh Breeze"/>
+      <temperature day="10.95" min="4.92" max="10.95" night="8.95" eve="10.49" morn="4.92"/>
+      <pressure unit="hPa" value="1024.45"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="broken clouds" all="79" unit="%"/>
+    </time>
+    <time day="2015-11-14">
+      <symbol number="800" name="sky is clear" var="01d"/>
+      <precipitation/>
+      <windDirection deg="281" code="W" name="West"/>
+      <windSpeed mps="5.21" name="Gentle Breeze"/>
+      <temperature day="11.1" min="8.69" max="11.65" night="11.65" eve="11.38" morn="8.69"/>
+      <pressure unit="hPa" value="1036.28"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="scattered clouds" all="36" unit="%"/>
+    </time>
+    <time day="2015-11-15">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="0.23" type="rain"/>
+      <windDirection deg="242" code="WSW" name="West-southwest"/>
+      <windSpeed mps="7.03" name="Moderate breeze"/>
+      <temperature day="12.77" min="10.51" max="12.77" night="11.74" eve="11.88" morn="10.51"/>
+      <pressure unit="hPa" value="1032.61"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="few clouds" all="10" unit="%"/>
+    </time>
+    <time day="2015-11-16">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="2.99" type="rain"/>
+      <windDirection deg="289" code="WNW" name="West-northwest"/>
+      <windSpeed mps="6.07" name="Moderate breeze"/>
+      <temperature day="9.28" min="8.43" max="11.48" night="8.78" eve="8.43" morn="11.48"/>
+      <pressure unit="hPa" value="1024.86"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="scattered clouds" all="38" unit="%"/>
+    </time>
+    <time day="2015-11-17">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation/>
+      <windDirection deg="325" code="NW" name="Northwest"/>
+      <windSpeed mps="7.31" name="Moderate breeze"/>
+      <temperature day="9.95" min="6.08" max="9.95" night="6.08" eve="7.89" morn="9.24"/>
+      <pressure unit="hPa" value="1036.93"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="clear sky" all="5" unit="%"/>
+    </time>
+    <time day="2015-11-18">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="0.36" type="rain"/>
+      <windDirection deg="208" code="SSW" name="South-southwest"/>
+      <windSpeed mps="1.89" name="Light breeze"/>
+      <temperature day="7.4" min="2.06" max="7.4" night="6.43" eve="5.81" morn="2.06"/>
+      <pressure unit="hPa" value="1040.36"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="scattered clouds" all="46" unit="%"/>
+    </time>
+    <time day="2015-11-19">
+      <symbol number="501" name="moderate rain" var="10d"/>
+      <precipitation value="3.46" type="rain"/>
+      <windDirection deg="215" code="SW" name="Southwest"/>
+      <windSpeed mps="7.51" name="Moderate breeze"/>
+      <temperature day="10.69" min="7.64" max="10.82" night="10.66" eve="10.82" morn="7.64"/>
+      <pressure unit="hPa" value="1024.31"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="overcast clouds" all="99" unit="%"/>
+    </time>
+    <time day="2015-11-20">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation value="1.32" type="rain"/>
+      <windDirection deg="155" code="SSE" name="South-southeast"/>
+      <windSpeed mps="5.14" name="Gentle Breeze"/>
+      <temperature day="9.22" min="7.21" max="9.71" night="7.21" eve="7.58" morn="9.71"/>
+      <pressure unit="hPa" value="1016.18"/>
+      <humidity value="0" unit="%"/>
+      <clouds value="overcast clouds" all="91" unit="%"/>
+    </time>
+  </forecast>
+</weatherdata>

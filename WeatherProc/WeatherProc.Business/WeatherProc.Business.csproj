@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{24F2F0CF-9036-4EDE-BA1D-C164AB104CB8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WeatherProc.Business</RootNamespace>
+    <AssemblyName>WeatherProc.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstracts\IModule.cs" />
+    <Compile Include="Enums\ModelType.cs" />
+    <Compile Include="Enums\ModuleType.cs" />
+    <Compile Include="Helpers\CountryHelper.cs" />
+    <Compile Include="Helpers\DateTimeHelper.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Deserializers\XmlDeserializer.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\CurrentJsonModel.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\CurrentXmlModel.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\JSON\Clouds.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\JSON\Coordinates.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\JSON\Main.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\JSON\Rain.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\JSON\Snow.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\JSON\SystemParameters.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\JSON\Weather.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\JSON\Wind.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\City.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Clouds.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\CityCoordinates.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Humidity.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\LastUpdate.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Precipitation.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Pressure.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Sun.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Temperature.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Visibility.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Weather.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\Wind.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\WindDirection.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Current\XML\WindSpeed.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Deserializers\JsonDeserializer.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16DaysJsonModel.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16DaysXmlModel.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\JSON\City.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\JSON\Coordinates.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\JSON\ListForecast.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\JSON\ListTemperature.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\JSON\ListWeather.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\Location.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\LocationLocation.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\Meta.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\Sun.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\Time.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\TimeClouds.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\TimeHumidity.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\TimePrecipitation.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\TimePressure.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\TimeSymbol.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\TimeTemperature.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\TimeWindDirection.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast16Days\XML\TimeWindSpeed.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5DaysJsonModel.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5DaysXmlModel.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\City.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\CitySys.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\Coordinates.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\Forecast.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\ListClouds.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\ListMain.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\ListRain.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\ListSnow.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\ListSys.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\ListWeather.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\JSON\ListWind.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\Location.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\LocationLocation.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\Meta.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\Sun.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\TimeClouds.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\TimeHumidity.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\TimePrecipitation.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\TimePressure.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\TimeSymbol.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\TimeTemperature.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\Time.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\TimeWindDirection.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\Forecast5Days\XML\TimeWindSpeed.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\JsonModel.cs" />
+    <Compile Include="Modules\OpenWeatherMap\Models\XmlModel.cs" />
+    <Compile Include="Modules\OpenWeatherMapModule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\WeatherProc.Data\WeatherProc.Data.csproj">
+      <Project>{8c8b1ecb-5780-4417-a77a-3523ba5c9fc1}</Project>
+      <Name>WeatherProc.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

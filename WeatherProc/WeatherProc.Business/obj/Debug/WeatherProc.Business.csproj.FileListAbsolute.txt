@@ -1,0 +1,9 @@
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\bin\Debug\WeatherProc.Business.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\bin\Debug\WeatherProc.Business.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\obj\Debug\WeatherProc.Business.csprojResolveAssemblyReference.cache
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\obj\Debug\WeatherProc.Business.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\obj\Debug\WeatherProc.Business.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\bin\Debug\WeatherProc.Data.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\bin\Debug\WeatherProc.Data.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Business\bin\Debug\Newtonsoft.Json.xml

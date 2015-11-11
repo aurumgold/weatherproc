@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<weatherdata>
+  <location>
+    <name>London</name>
+    <type/>
+    <country>US</country>
+    <timezone/>
+    <location altitude="0" latitude="39.886452" longitude="-83.44825" geobase="geonames" geobaseid="0"/>
+  </location>
+  <credit/>
+  <meta>
+    <lastupdate/>
+    <calctime>0.0025</calctime>
+    <nextupdate/>
+  </meta>
+  <sun rise="2015-11-05T12:07:44" set="2015-11-05T22:26:31"/>
+  <forecast>
+    <time from="2015-11-05T15:00:00" to="2015-11-05T18:00:00">
+      <symbol number="802" name="scattered clouds" var="03d"/>
+      <precipitation/>
+      <windDirection deg="217.001" code="SW" name="Southwest"/>
+      <windSpeed mps="4.26" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="21.2" min="21.2" max="21.2"/>
+      <pressure unit="hPa" value="1000.67"/>
+      <humidity value="76" unit="%"/>
+      <clouds value="scattered clouds" all="48" unit="%"/>
+    </time>
+    <time from="2015-11-05T18:00:00" to="2015-11-05T21:00:00">
+      <symbol number="800" name="sky is clear" var="01d"/>
+      <precipitation/>
+      <windDirection deg="197.006" code="SSW" name="South-southwest"/>
+      <windSpeed mps="5.22" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="21.56" min="21.56" max="21.56"/>
+      <pressure unit="hPa" value="998.81"/>
+      <humidity value="68" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-05T21:00:00" to="2015-11-06T00:00:00">
+      <symbol number="803" name="broken clouds" var="04n"/>
+      <precipitation/>
+      <windDirection deg="187.502" code="S" name="South"/>
+      <windSpeed mps="4.81" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="19.1" min="19.1" max="19.1"/>
+      <pressure unit="hPa" value="998.15"/>
+      <humidity value="75" unit="%"/>
+      <clouds value="broken clouds" all="56" unit="%"/>
+    </time>
+    <time from="2015-11-06T00:00:00" to="2015-11-06T03:00:00">
+      <symbol number="500" name="light rain" var="10n"/>
+      <precipitation unit="3h" value="0.015" type="rain"/>
+      <windDirection deg="181.001" code="S" name="South"/>
+      <windSpeed mps="5.15" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="17.97" min="17.97" max="17.97"/>
+      <pressure unit="hPa" value="996.71"/>
+      <humidity value="81" unit="%"/>
+      <clouds value="broken clouds" all="64" unit="%"/>
+    </time>
+    <time from="2015-11-06T03:00:00" to="2015-11-06T06:00:00">
+      <symbol number="500" name="light rain" var="10n"/>
+      <precipitation unit="3h" value="0.085" type="rain"/>
+      <windDirection deg="194.007" code="SSW" name="South-southwest"/>
+      <windSpeed mps="7.11" name="Moderate breeze"/>
+      <temperature unit="celsius" value="18.55" min="18.55" max="18.55"/>
+      <pressure unit="hPa" value="994.52"/>
+      <humidity value="88" unit="%"/>
+      <clouds value="overcast clouds" all="88" unit="%"/>
+    </time>
+    <time from="2015-11-06T06:00:00" to="2015-11-06T09:00:00">
+      <symbol number="500" name="light rain" var="10n"/>
+      <precipitation unit="3h" value="0.445" type="rain"/>
+      <windDirection deg="203.504" code="SSW" name="South-southwest"/>
+      <windSpeed mps="8.45" name="Fresh Breeze"/>
+      <temperature unit="celsius" value="19.32" min="19.32" max="19.32"/>
+      <pressure unit="hPa" value="993"/>
+      <humidity value="89" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time from="2015-11-06T09:00:00" to="2015-11-06T12:00:00">
+      <symbol number="500" name="light rain" var="10n"/>
+      <precipitation unit="3h" value="1.945" type="rain"/>
+      <windDirection deg="210.006" code="SSW" name="South-southwest"/>
+      <windSpeed mps="10.42" name="Fresh Breeze"/>
+      <temperature unit="celsius" value="19.74" min="19.74" max="19.74"/>
+      <pressure unit="hPa" value="992.21"/>
+      <humidity value="92" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time from="2015-11-06T12:00:00" to="2015-11-06T15:00:00">
+      <symbol number="501" name="moderate rain" var="10d"/>
+      <precipitation unit="3h" value="7.175" type="rain"/>
+      <windDirection deg="241.501" code="WSW" name="West-southwest"/>
+      <windSpeed mps="8.02" name="Fresh Breeze"/>
+      <temperature unit="celsius" value="18.39" min="18.39" max="18.39"/>
+      <pressure unit="hPa" value="993.9"/>
+      <humidity value="99" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time from="2015-11-06T15:00:00" to="2015-11-06T18:00:00">
+      <symbol number="500" name="light rain" var="10d"/>
+      <precipitation unit="3h" value="0.855" type="rain"/>
+      <windDirection deg="284.009" code="WNW" name="West-northwest"/>
+      <windSpeed mps="5.09" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="18.78" min="18.78" max="18.78"/>
+      <pressure unit="hPa" value="994.46"/>
+      <humidity value="96" unit="%"/>
+      <clouds value="overcast clouds" all="88" unit="%"/>
+    </time>
+    <time from="2015-11-06T18:00:00" to="2015-11-06T21:00:00">
+      <symbol number="804" name="overcast clouds" var="04d"/>
+      <precipitation/>
+      <windDirection deg="290.001" code="WNW" name="West-northwest"/>
+      <windSpeed mps="4.39" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="16.84" min="16.84" max="16.84"/>
+      <pressure unit="hPa" value="995.57"/>
+      <humidity value="96" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time from="2015-11-06T21:00:00" to="2015-11-07T00:00:00">
+      <symbol number="804" name="overcast clouds" var="04n"/>
+      <precipitation/>
+      <windDirection deg="310.005" code="NW" name="Northwest"/>
+      <windSpeed mps="3.99" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="13.36" min="13.36" max="13.36"/>
+      <pressure unit="hPa" value="997.18"/>
+      <humidity value="95" unit="%"/>
+      <clouds value="overcast clouds" all="88" unit="%"/>
+    </time>
+    <time from="2015-11-07T00:00:00" to="2015-11-07T03:00:00">
+      <symbol number="804" name="overcast clouds" var="04n"/>
+      <precipitation/>
+      <windDirection deg="327" code="NNW" name="North-northwest"/>
+      <windSpeed mps="3.81" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="10.58" min="10.58" max="10.58"/>
+      <pressure unit="hPa" value="998.98"/>
+      <humidity value="97" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time from="2015-11-07T03:00:00" to="2015-11-07T06:00:00">
+      <symbol number="804" name="overcast clouds" var="04n"/>
+      <precipitation/>
+      <windDirection deg="330.002" code="NNW" name="North-northwest"/>
+      <windSpeed mps="3.04" name="Light breeze"/>
+      <temperature unit="celsius" value="8.43" min="8.43" max="8.43"/>
+      <pressure unit="hPa" value="1000.44"/>
+      <humidity value="98" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time from="2015-11-07T06:00:00" to="2015-11-07T09:00:00">
+      <symbol number="803" name="broken clouds" var="04n"/>
+      <precipitation/>
+      <windDirection deg="337.506" code="NNW" name="North-northwest"/>
+      <windSpeed mps="2.95" name="Light breeze"/>
+      <temperature unit="celsius" value="6.99" min="6.99" max="6.99"/>
+      <pressure unit="hPa" value="1000.9"/>
+      <humidity value="97" unit="%"/>
+      <clouds value="broken clouds" all="80" unit="%"/>
+    </time>
+    <time from="2015-11-07T09:00:00" to="2015-11-07T12:00:00">
+      <symbol number="804" name="overcast clouds" var="04n"/>
+      <precipitation/>
+      <windDirection deg="328.503" code="NNW" name="North-northwest"/>
+      <windSpeed mps="2.47" name="Light breeze"/>
+      <temperature unit="celsius" value="5.8" min="5.8" max="5.8"/>
+      <pressure unit="hPa" value="1002.19"/>
+      <humidity value="97" unit="%"/>
+      <clouds value="overcast clouds" all="88" unit="%"/>
+    </time>
+    <time from="2015-11-07T12:00:00" to="2015-11-07T15:00:00">
+      <symbol number="804" name="overcast clouds" var="04d"/>
+      <precipitation/>
+      <windDirection deg="327.003" code="NNW" name="North-northwest"/>
+      <windSpeed mps="2.45" name="Light breeze"/>
+      <temperature unit="celsius" value="8.06" min="8.06" max="8.06"/>
+      <pressure unit="hPa" value="1003.58"/>
+      <humidity value="100" unit="%"/>
+      <clouds value="overcast clouds" all="92" unit="%"/>
+    </time>
+    <time from="2015-11-07T15:00:00" to="2015-11-07T18:00:00">
+      <symbol number="803" name="broken clouds" var="04d"/>
+      <precipitation/>
+      <windDirection deg="318" code="NW" name="Northwest"/>
+      <windSpeed mps="2.73" name="Light breeze"/>
+      <temperature unit="celsius" value="9.33" min="9.33" max="9.33"/>
+      <pressure unit="hPa" value="1003.05"/>
+      <humidity value="100" unit="%"/>
+      <clouds value="broken clouds" all="80" unit="%"/>
+    </time>
+    <time from="2015-11-07T18:00:00" to="2015-11-07T21:00:00">
+      <symbol number="801" name="few clouds" var="02d"/>
+      <precipitation/>
+      <windDirection deg="309.003" code="NW" name="Northwest"/>
+      <windSpeed mps="3.82" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="9.69" min="9.69" max="9.69"/>
+      <pressure unit="hPa" value="1002.44"/>
+      <humidity value="93" unit="%"/>
+      <clouds value="few clouds" all="12" unit="%"/>
+    </time>
+    <time from="2015-11-07T21:00:00" to="2015-11-08T00:00:00">
+      <symbol number="801" name="few clouds" var="02n"/>
+      <precipitation/>
+      <windDirection deg="315.005" code="NW" name="Northwest"/>
+      <windSpeed mps="3.91" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="6.27" min="6.27" max="6.27"/>
+      <pressure unit="hPa" value="1004.03"/>
+      <humidity value="84" unit="%"/>
+      <clouds value="few clouds" all="20" unit="%"/>
+    </time>
+    <time from="2015-11-08T00:00:00" to="2015-11-08T03:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="313" code="NW" name="Northwest"/>
+      <windSpeed mps="3.91" name="Gentle Breeze"/>
+      <temperature unit="celsius" value="4.05" min="4.05" max="4.05"/>
+      <pressure unit="hPa" value="1005.54"/>
+      <humidity value="87" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-08T03:00:00" to="2015-11-08T06:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="316" code="NW" name="Northwest"/>
+      <windSpeed mps="2.56" name="Light breeze"/>
+      <temperature unit="celsius" value="1.24" min="1.24" max="1.24"/>
+      <pressure unit="hPa" value="1006.72"/>
+      <humidity value="89" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-08T06:00:00" to="2015-11-08T09:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="302.003" code="WNW" name="West-northwest"/>
+      <windSpeed mps="1.76" name="Light breeze"/>
+      <temperature unit="celsius" value="-1.42" min="-1.42" max="-1.42"/>
+      <pressure unit="hPa" value="1007.75"/>
+      <humidity value="85" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-08T09:00:00" to="2015-11-08T12:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="319" code="NW" name="Northwest"/>
+      <windSpeed mps="1.36" name="Calm"/>
+      <temperature unit="celsius" value="-2.96" min="-2.96" max="-2.96"/>
+      <pressure unit="hPa" value="1008.67"/>
+      <humidity value="82" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-08T12:00:00" to="2015-11-08T15:00:00">
+      <symbol number="800" name="sky is clear" var="01d"/>
+      <precipitation/>
+      <windDirection deg="11.5021" code="NNE" name="North-northeast"/>
+      <windSpeed mps="2.02" name="Light breeze"/>
+      <temperature unit="celsius" value="4.46" min="4.46" max="4.46"/>
+      <pressure unit="hPa" value="1010.17"/>
+      <humidity value="98" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-08T15:00:00" to="2015-11-08T18:00:00">
+      <symbol number="800" name="sky is clear" var="01d"/>
+      <precipitation/>
+      <windDirection deg="55.0002" code="NE" name="NorthEast"/>
+      <windSpeed mps="2.11" name="Light breeze"/>
+      <temperature unit="celsius" value="7.59" min="7.59" max="7.59"/>
+      <pressure unit="hPa" value="1009.3"/>
+      <humidity value="92" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-08T18:00:00" to="2015-11-08T21:00:00">
+      <symbol number="800" name="sky is clear" var="01d"/>
+      <precipitation/>
+      <windDirection deg="65.0021" code="ENE" name="East-northeast"/>
+      <windSpeed mps="2.03" name="Light breeze"/>
+      <temperature unit="celsius" value="8.04" min="8.04" max="8.04"/>
+      <pressure unit="hPa" value="1008.59"/>
+      <humidity value="73" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-08T21:00:00" to="2015-11-09T00:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="23.5027" code="NNE" name="North-northeast"/>
+      <windSpeed mps="1.32" name="Calm"/>
+      <temperature unit="celsius" value="1.71" min="1.71" max="1.71"/>
+      <pressure unit="hPa" value="1008.42"/>
+      <humidity value="79" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-09T00:00:00" to="2015-11-09T03:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="27.0014" code="NNE" name="North-northeast"/>
+      <windSpeed mps="1.62" name="Light breeze"/>
+      <temperature unit="celsius" value="-1.25" min="-1.25" max="-1.25"/>
+      <pressure unit="hPa" value="1008.09"/>
+      <humidity value="75" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-09T03:00:00" to="2015-11-09T06:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="61" code="ENE" name="East-northeast"/>
+      <windSpeed mps="1.61" name="Light breeze"/>
+      <temperature unit="celsius" value="-2.33" min="-2.33" max="-2.33"/>
+      <pressure unit="hPa" value="1007.75"/>
+      <humidity value="72" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-09T06:00:00" to="2015-11-09T09:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="70.5037" code="ENE" name="East-northeast"/>
+      <windSpeed mps="1.56" name="Light breeze"/>
+      <temperature unit="celsius" value="-2.78" min="-2.78" max="-2.78"/>
+      <pressure unit="hPa" value="1007.32"/>
+      <humidity value="74" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-09T09:00:00" to="2015-11-09T12:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="64.0013" code="ENE" name="East-northeast"/>
+      <windSpeed mps="2.31" name="Light breeze"/>
+      <temperature unit="celsius" value="-2.7" min="-2.7" max="-2.7"/>
+      <pressure unit="hPa" value="1007.35"/>
+      <humidity value="74" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-09T12:00:00" to="2015-11-09T15:00:00">
+      <symbol number="800" name="sky is clear" var="01d"/>
+      <precipitation/>
+      <windDirection deg="99.0099" code="E" name="East"/>
+      <windSpeed mps="2.51" name="Light breeze"/>
+      <temperature unit="celsius" value="6.25" min="6.25" max="6.25"/>
+      <pressure unit="hPa" value="1007.76"/>
+      <humidity value="74" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-09T15:00:00" to="2015-11-09T18:00:00">
+      <symbol number="800" name="sky is clear" var="01d"/>
+      <precipitation/>
+      <windDirection deg="122.504" code="ESE" name="East-southeast"/>
+      <windSpeed mps="2.41" name="Light breeze"/>
+      <temperature unit="celsius" value="10.86" min="10.86" max="10.86"/>
+      <pressure unit="hPa" value="1005.74"/>
+      <humidity value="79" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-09T18:00:00" to="2015-11-09T21:00:00">
+      <symbol number="800" name="sky is clear" var="01d"/>
+      <precipitation/>
+      <windDirection deg="122" code="ESE" name="East-southeast"/>
+      <windSpeed mps="3.07" name="Light breeze"/>
+      <temperature unit="celsius" value="11.34" min="11.34" max="11.34"/>
+      <pressure unit="hPa" value="1004.34"/>
+      <humidity value="62" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-09T21:00:00" to="2015-11-10T00:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="112.501" code="ESE" name="East-southeast"/>
+      <windSpeed mps="3.06" name="Light breeze"/>
+      <temperature unit="celsius" value="3.59" min="3.59" max="3.59"/>
+      <pressure unit="hPa" value="1004.03"/>
+      <humidity value="65" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-10T00:00:00" to="2015-11-10T03:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="122.507" code="ESE" name="East-southeast"/>
+      <windSpeed mps="2.42" name="Light breeze"/>
+      <temperature unit="celsius" value="0.03" min="0.03" max="0.03"/>
+      <pressure unit="hPa" value="1003.63"/>
+      <humidity value="71" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-10T03:00:00" to="2015-11-10T06:00:00">
+      <symbol number="800" name="sky is clear" var="01n"/>
+      <precipitation/>
+      <windDirection deg="127.002" code="SE" name="SouthEast"/>
+      <windSpeed mps="2.36" name="Light breeze"/>
+      <temperature unit="celsius" value="-0.69" min="-0.69" max="-0.69"/>
+      <pressure unit="hPa" value="1002.72"/>
+      <humidity value="72" unit="%"/>
+      <clouds value="clear sky" all="0" unit="%"/>
+    </time>
+    <time from="2015-11-10T06:00:00" to="2015-11-10T09:00:00">
+      <symbol number="801" name="few clouds" var="02n"/>
+      <precipitation/>
+      <windDirection deg="178.502" code="S" name="South"/>
+      <windSpeed mps="1.53" name="Calm"/>
+      <temperature unit="celsius" value="-0.74" min="-0.74" max="-0.74"/>
+      <pressure unit="hPa" value="1002.52"/>
+      <humidity value="75" unit="%"/>
+      <clouds value="few clouds" all="12" unit="%"/>
+    </time>
+    <time from="2015-11-10T09:00:00" to="2015-11-10T12:00:00">
+      <symbol number="803" name="broken clouds" var="04n"/>
+      <precipitation/>
+      <windDirection deg="214" code="SW" name="Southwest"/>
+      <windSpeed mps="1.25" name="Calm"/>
+      <temperature unit="celsius" value="0.72" min="0.72" max="0.72"/>
+      <pressure unit="hPa" value="1002.76"/>
+      <humidity value="77" unit="%"/>
+      <clouds value="broken clouds" all="56" unit="%"/>
+    </time>
+    <time from="2015-11-10T12:00:00" to="2015-11-10T15:00:00">
+      <symbol number="803" name="broken clouds" var="04d"/>
+      <precipitation/>
+      <windDirection deg="183.003" code="S" name="South"/>
+      <windSpeed mps="1.68" name="Light breeze"/>
+      <temperature unit="celsius" value="8.4" min="8.4" max="8.4"/>
+      <pressure unit="hPa" value="1003.46"/>
+      <humidity value="64" unit="%"/>
+      <clouds value="broken clouds" all="68" unit="%"/>
+    </time>
+  </forecast>
+</weatherdata>

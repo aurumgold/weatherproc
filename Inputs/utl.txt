@@ -1,0 +1,9 @@
+https://developer.weathersource.com/
+http://www.apixu.com/
+https://developer.forecast.io/
+http://www.myweather2.com/developer/
+http://openweathermap.org/api
+http://www.wunderground.com/weather/api/
+https://developer.worldweatheronline.com/page/explorer-free
+https://developer.yahoo.com/weather/
+http://api.yr.no/

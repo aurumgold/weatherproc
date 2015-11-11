@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Gvarv</name>
+    <type>Small town</type>
+    <country>Norway</country>
+    <timezone id="Europe/Oslo" utcoffsetMinutes="60" />
+    <location altitude="17" latitude="59.3876666216368" longitude="9.17239325131741" geobase="ssr" geobaseid="43354" />
+  </location>
+  <credit>
+    <!--In order to use the free weather data from yr no, you HAVE to display 
+the following text clearly visible on your web page. The text should be a 
+link to the specified URL.-->
+    <!--Please read more about our conditions and guidelines at http://om.yr.no/verdata/  English explanation at http://om.yr.no/verdata/free-weather-data/-->
+    <link text="Weather forecast from yr.no, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Norway/Telemark/Sauherad/Gvarv/" />
+  </credit>
+  <links>
+    <link id="xmlSource" url="http://www.yr.no/place/Norway/Telemark/Sauherad/Gvarv/forecast.xml" />
+    <link id="xmlSourceHourByHour" url="http://www.yr.no/place/Norway/Telemark/Sauherad/Gvarv/forecast_hour_by_hour.xml" />
+    <link id="overview" url="http://www.yr.no/place/Norway/Telemark/Sauherad/Gvarv/" />
+    <link id="hourByHour" url="http://www.yr.no/place/Norway/Telemark/Sauherad/Gvarv/hour_by_hour" />
+    <link id="longTermForecast" url="http://www.yr.no/place/Norway/Telemark/Sauherad/Gvarv/long" />
+    <link id="radar" url="http://www.yr.no/place/Norway/Telemark/Sauherad/Gvarv/radar.html" />
+  </links>
+  <meta>
+    <lastupdate>2015-11-05T15:31:06</lastupdate>
+    <nextupdate>2015-11-05T23:00:00</nextupdate>
+  </meta>
+  <sun rise="2015-11-05T07:51:53" set="2015-11-05T16:21:02" />
+  <forecast>
+    <text>
+      <location name="Gvarv">
+        <time from="2015-11-05" to="2015-11-05">
+          <title>Thursday</title>
+          <body>&lt;strong&gt;Telemark:&lt;/strong&gt; Østlig eller skiftende bris. Skyet. Perioder med litt regn og yr. Lokal tåke.</body>
+        </time>
+        <time from="2015-11-06" to="2015-11-06">
+          <title>Friday</title>
+          <body>&lt;strong&gt;Telemark:&lt;/strong&gt; Sørøstlig bris, om kvelden til dels liten kuling på kysten. Skyet. Litt regn. Lokal tåke.</body>
+        </time>
+        <time from="2015-11-07" to="2015-11-07">
+          <title>Saturday</title>
+          <body>&lt;strong&gt;Østlandet og Telemark:&lt;/strong&gt; Sørvestlig bris, til dels frisk bris på kysten. Regn, fra lørdag formiddag oppholdsvær, først i sør. Gløtt av sol.</body>
+        </time>
+        <time from="2015-11-08" to="2015-11-08">
+          <title>Sunday</title>
+          <body>&lt;strong&gt;Telemark og Agder:&lt;/strong&gt; Vestlig bris. Litt regn i sør, ellers stort sett oppholdsvær. Om kvelden økning til sørlig bris, kuling på kysten. Regn fra vest. Litt lavere temperatur.</body>
+        </time>
+        <time from="2015-11-09" to="2015-11-10">
+          <title>Monday and Tuesday</title>
+          <body>&lt;strong&gt;Østafjells:&lt;/strong&gt; Sørlig bris, på kysten kuling. Regn, vesentlig først på dagen. Tirsdag vestlig bris, periodevis kuling på kysten. Lettere vær. Litt lavere temperatur.</body>
+        </time>
+      </location>
+    </text>
+    <tabular>
+      <time from="2015-11-05T21:00:00" to="2015-11-06T00:00:00" period="3">
+        <!-- Valid from 2015-11-05T21:00:00 to 2015-11-06T00:00:00 -->
+        <symbol number="9" numberEx="46" name="Light rain" var="46" />
+        <precipitation value="0.3" minvalue="0.1" maxvalue="0.5" />
+        <!-- Valid at 2015-11-05T21:00:00 -->
+        <windDirection deg="239.5" code="WSW" name="West-southwest" />
+        <windSpeed mps="0.4" name="Light air" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1019.9" />
+      </time>
+      <time from="2015-11-06T00:00:00" to="2015-11-06T06:00:00" period="0">
+        <!-- Valid from 2015-11-06T00:00:00 to 2015-11-06T06:00:00 -->
+        <symbol number="9" numberEx="46" name="Light rain" var="46" />
+        <precipitation value="0.7" minvalue="0.2" maxvalue="1.4" />
+        <!-- Valid at 2015-11-06T00:00:00 -->
+        <windDirection deg="235.5" code="SW" name="Southwest" />
+        <windSpeed mps="0.5" name="Light air" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1020.1" />
+      </time>
+      <time from="2015-11-06T06:00:00" to="2015-11-06T12:00:00" period="1">
+        <!-- Valid from 2015-11-06T06:00:00 to 2015-11-06T12:00:00 -->
+        <symbol number="9" numberEx="9" name="Rain" var="09" />
+        <precipitation value="1.1" minvalue="0.4" maxvalue="1.9" />
+        <!-- Valid at 2015-11-06T06:00:00 -->
+        <windDirection deg="223.9" code="SW" name="Southwest" />
+        <windSpeed mps="0.7" name="Light air" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1018.6" />
+      </time>
+      <time from="2015-11-06T12:00:00" to="2015-11-06T18:00:00" period="2">
+        <!-- Valid from 2015-11-06T12:00:00 to 2015-11-06T18:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" minvalue="0" maxvalue="0.2" />
+        <!-- Valid at 2015-11-06T12:00:00 -->
+        <windDirection deg="203.8" code="SSW" name="South-southwest" />
+        <windSpeed mps="1.0" name="Light air" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1019.1" />
+      </time>
+      <time from="2015-11-06T18:00:00" to="2015-11-07T00:00:00" period="3">
+        <!-- Valid from 2015-11-06T18:00:00 to 2015-11-07T00:00:00 -->
+        <symbol number="9" numberEx="9" name="Rain" var="09" />
+        <precipitation value="3.7" minvalue="2.4" maxvalue="4.9" />
+        <!-- Valid at 2015-11-06T18:00:00 -->
+        <windDirection deg="278.8" code="W" name="West" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1016.7" />
+      </time>
+      <time from="2015-11-07T00:00:00" to="2015-11-07T06:00:00" period="0">
+        <!-- Valid from 2015-11-07T00:00:00 to 2015-11-07T06:00:00 -->
+        <symbol number="9" numberEx="9" name="Rain" var="09" />
+        <precipitation value="3.2" minvalue="1.8" maxvalue="5.0" />
+        <!-- Valid at 2015-11-07T00:00:00 -->
+        <windDirection deg="296.4" code="WNW" name="West-northwest" />
+        <windSpeed mps="1.6" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1012.8" />
+      </time>
+      <time from="2015-11-07T06:00:00" to="2015-11-07T12:00:00" period="1">
+        <!-- Valid from 2015-11-07T06:00:00 to 2015-11-07T12:00:00 -->
+        <symbol number="5" numberEx="40" name="Light rain showers" var="40d" />
+        <precipitation value="0.5" minvalue="0.4" maxvalue="1.1" />
+        <!-- Valid at 2015-11-07T06:00:00 -->
+        <windDirection deg="16.5" code="NNE" name="North-northeast" />
+        <windSpeed mps="0.8" name="Light air" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+      <time from="2015-11-07T12:00:00" to="2015-11-07T18:00:00" period="2">
+        <!-- Valid from 2015-11-07T12:00:00 to 2015-11-07T18:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-07T12:00:00 -->
+        <windDirection deg="278.0" code="W" name="West" />
+        <windSpeed mps="0.9" name="Light air" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1009.4" />
+      </time>
+      <time from="2015-11-07T18:00:00" to="2015-11-08T00:00:00" period="3">
+        <!-- Valid from 2015-11-07T18:00:00 to 2015-11-08T00:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-07T18:00:00 -->
+        <windDirection deg="318.1" code="NW" name="Northwest" />
+        <windSpeed mps="1.0" name="Light air" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1011.9" />
+      </time>
+      <time from="2015-11-08T00:00:00" to="2015-11-08T06:00:00" period="0">
+        <!-- Valid from 2015-11-08T00:00:00 to 2015-11-08T06:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-08T00:00:00 -->
+        <windDirection deg="318.0" code="NW" name="Northwest" />
+        <windSpeed mps="0.9" name="Light air" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1012.9" />
+      </time>
+      <time from="2015-11-08T07:00:00" to="2015-11-08T13:00:00" period="1">
+        <!-- Valid from 2015-11-08T07:00:00 to 2015-11-08T13:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-08T07:00:00 -->
+        <windDirection deg="284.2" code="WNW" name="West-northwest" />
+        <windSpeed mps="1.6" name="Light breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1016.6" />
+      </time>
+      <time from="2015-11-08T13:00:00" to="2015-11-08T19:00:00" period="2">
+        <!-- Valid from 2015-11-08T13:00:00 to 2015-11-08T19:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-08T13:00:00 -->
+        <windDirection deg="262.6" code="W" name="West" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1017.8" />
+      </time>
+      <time from="2015-11-08T19:00:00" to="2015-11-09T01:00:00" period="3">
+        <!-- Valid from 2015-11-08T19:00:00 to 2015-11-09T01:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-08T19:00:00 -->
+        <windDirection deg="194.1" code="SSW" name="South-southwest" />
+        <windSpeed mps="1.8" name="Light breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1018.2" />
+      </time>
+      <time from="2015-11-09T01:00:00" to="2015-11-09T07:00:00" period="0">
+        <!-- Valid from 2015-11-09T01:00:00 to 2015-11-09T07:00:00 -->
+        <symbol number="10" numberEx="10" name="Heavy rain" var="10" />
+        <precipitation value="6.3" />
+        <!-- Valid at 2015-11-09T01:00:00 -->
+        <windDirection deg="149.4" code="SSE" name="South-southeast" />
+        <windSpeed mps="3.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1011.6" />
+      </time>
+      <time from="2015-11-09T07:00:00" to="2015-11-09T13:00:00" period="1">
+        <!-- Valid from 2015-11-09T07:00:00 to 2015-11-09T13:00:00 -->
+        <symbol number="5" numberEx="5" name="Rain showers" var="05d" />
+        <precipitation value="2.5" />
+        <!-- Valid at 2015-11-09T07:00:00 -->
+        <windDirection deg="188.1" code="S" name="South" />
+        <windSpeed mps="4.9" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="994.9" />
+      </time>
+      <time from="2015-11-09T13:00:00" to="2015-11-09T19:00:00" period="2">
+        <!-- Valid from 2015-11-09T13:00:00 to 2015-11-09T19:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-09T13:00:00 -->
+        <windDirection deg="202.7" code="SSW" name="South-southwest" />
+        <windSpeed mps="3.3" name="Light breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="995.7" />
+      </time>
+      <time from="2015-11-09T19:00:00" to="2015-11-10T01:00:00" period="3">
+        <!-- Valid from 2015-11-09T19:00:00 to 2015-11-10T01:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.92" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-09T19:00:00 -->
+        <windDirection deg="182.4" code="S" name="South" />
+        <windSpeed mps="2.8" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="993.1" />
+      </time>
+      <time from="2015-11-10T01:00:00" to="2015-11-10T07:00:00" period="0">
+        <!-- Valid from 2015-11-10T01:00:00 to 2015-11-10T07:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.95" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-10T01:00:00 -->
+        <windDirection deg="275.5" code="W" name="West" />
+        <windSpeed mps="2.3" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="989.5" />
+      </time>
+      <time from="2015-11-10T07:00:00" to="2015-11-10T13:00:00" period="1">
+        <!-- Valid from 2015-11-10T07:00:00 to 2015-11-10T13:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-10T07:00:00 -->
+        <windDirection deg="238.8" code="WSW" name="West-southwest" />
+        <windSpeed mps="2.2" name="Light breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="988.8" />
+      </time>
+      <time from="2015-11-10T13:00:00" to="2015-11-10T19:00:00" period="2">
+        <!-- Valid from 2015-11-10T13:00:00 to 2015-11-10T19:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-10T13:00:00 -->
+        <windDirection deg="257.8" code="WSW" name="West-southwest" />
+        <windSpeed mps="2.4" name="Light breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="991.5" />
+      </time>
+      <time from="2015-11-10T19:00:00" to="2015-11-11T01:00:00" period="3">
+        <!-- Valid from 2015-11-10T19:00:00 to 2015-11-11T01:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.95" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-10T19:00:00 -->
+        <windDirection deg="264.6" code="W" name="West" />
+        <windSpeed mps="2.4" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="995.7" />
+      </time>
+      <time from="2015-11-11T01:00:00" to="2015-11-11T07:00:00" period="0">
+        <!-- Valid from 2015-11-11T01:00:00 to 2015-11-11T07:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.99" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-11T01:00:00 -->
+        <windDirection deg="282.0" code="WNW" name="West-northwest" />
+        <windSpeed mps="2.5" name="Light breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1000.1" />
+      </time>
+      <time from="2015-11-11T07:00:00" to="2015-11-11T13:00:00" period="1">
+        <!-- Valid from 2015-11-11T07:00:00 to 2015-11-11T13:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-11T07:00:00 -->
+        <windDirection deg="282.0" code="WNW" name="West-northwest" />
+        <windSpeed mps="2.2" name="Light breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1001.8" />
+      </time>
+      <time from="2015-11-11T13:00:00" to="2015-11-11T19:00:00" period="2">
+        <!-- Valid from 2015-11-11T13:00:00 to 2015-11-11T19:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-11T13:00:00 -->
+        <windDirection deg="283.0" code="WNW" name="West-northwest" />
+        <windSpeed mps="2.1" name="Light breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1004.7" />
+      </time>
+      <time from="2015-11-11T19:00:00" to="2015-11-12T01:00:00" period="3">
+        <!-- Valid from 2015-11-11T19:00:00 to 2015-11-12T01:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.99" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-11T19:00:00 -->
+        <windDirection deg="301.3" code="WNW" name="West-northwest" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1005.1" />
+      </time>
+      <time from="2015-11-12T01:00:00" to="2015-11-12T07:00:00" period="0">
+        <!-- Valid from 2015-11-12T01:00:00 to 2015-11-12T07:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.02" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-12T01:00:00 -->
+        <windDirection deg="226.0" code="SW" name="Southwest" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1006.3" />
+      </time>
+      <time from="2015-11-12T07:00:00" to="2015-11-12T13:00:00" period="1">
+        <!-- Valid from 2015-11-12T07:00:00 to 2015-11-12T13:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-12T07:00:00 -->
+        <windDirection deg="199.2" code="SSW" name="South-southwest" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1007.5" />
+      </time>
+      <time from="2015-11-12T13:00:00" to="2015-11-12T19:00:00" period="2">
+        <!-- Valid from 2015-11-12T13:00:00 to 2015-11-12T19:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-12T13:00:00 -->
+        <windDirection deg="246.1" code="WSW" name="West-southwest" />
+        <windSpeed mps="2.4" name="Light breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1007.9" />
+      </time>
+      <time from="2015-11-12T19:00:00" to="2015-11-13T01:00:00" period="3">
+        <!-- Valid from 2015-11-12T19:00:00 to 2015-11-13T01:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.02" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-12T19:00:00 -->
+        <windDirection deg="293.3" code="WNW" name="West-northwest" />
+        <windSpeed mps="2.2" name="Light breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1011.4" />
+      </time>
+      <time from="2015-11-13T01:00:00" to="2015-11-13T07:00:00" period="0">
+        <!-- Valid from 2015-11-13T01:00:00 to 2015-11-13T07:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.05" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-13T01:00:00 -->
+        <windDirection deg="241.2" code="WSW" name="West-southwest" />
+        <windSpeed mps="2.2" name="Light breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1012.4" />
+      </time>
+      <time from="2015-11-13T07:00:00" to="2015-11-13T13:00:00" period="1">
+        <!-- Valid from 2015-11-13T07:00:00 to 2015-11-13T13:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-13T07:00:00 -->
+        <windDirection deg="217.2" code="SW" name="Southwest" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1012.3" />
+      </time>
+      <time from="2015-11-13T13:00:00" to="2015-11-13T19:00:00" period="2">
+        <!-- Valid from 2015-11-13T13:00:00 to 2015-11-13T19:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-13T13:00:00 -->
+        <windDirection deg="176.5" code="S" name="South" />
+        <windSpeed mps="2.7" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1011.2" />
+      </time>
+      <time from="2015-11-13T19:00:00" to="2015-11-14T01:00:00" period="3">
+        <!-- Valid from 2015-11-13T19:00:00 to 2015-11-14T01:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.05" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-13T19:00:00 -->
+        <windDirection deg="230.8" code="SW" name="Southwest" />
+        <windSpeed mps="2.3" name="Light breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1010.7" />
+      </time>
+      <time from="2015-11-14T01:00:00" to="2015-11-14T07:00:00" period="0">
+        <!-- Valid from 2015-11-14T01:00:00 to 2015-11-14T07:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="mf/03n.09" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-14T01:00:00 -->
+        <windDirection deg="221.6" code="SW" name="Southwest" />
+        <windSpeed mps="2.2" name="Light breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1009.6" />
+      </time>
+      <time from="2015-11-14T07:00:00" to="2015-11-14T13:00:00" period="1">
+        <!-- Valid from 2015-11-14T07:00:00 to 2015-11-14T13:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-14T07:00:00 -->
+        <windDirection deg="279.8" code="W" name="West" />
+        <windSpeed mps="2.5" name="Light breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1009.3" />
+      </time>
+      <time from="2015-11-14T13:00:00" to="2015-11-14T19:00:00" period="2">
+        <!-- Valid from 2015-11-14T13:00:00 to 2015-11-14T19:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2015-11-14T13:00:00 -->
+        <windDirection deg="227.3" code="SW" name="Southwest" />
+        <windSpeed mps="3.1" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1011.4" />
+      </time>
+    </tabular>
+  </forecast>
+  <observations>
+    <weatherstation stno="32060" sttype="eklima" name="Gvarv" distance="2368" lat="59.38220" lon="9.21280" source="Meteorologisk Institutt">
+      <temperature unit="celsius" value="5.5" time="2015-11-05T19:00:00Z" />
+      <windDirection deg="11.0" code="N" name="North" time="2015-11-05T19:00:00Z" />
+      <windSpeed mps="0.2" name="Calm" time="2015-11-05T19:00:00Z" />
+    </weatherstation>
+    <weatherstation stno="32240" sttype="eklima" name="Bø (Glennahaugen)" distance="8786" lat="59.41750" lon="9.02870" source="Meteorologisk Institutt">
+      <temperature unit="celsius" value="5.3" time="2015-11-05T19:00:00Z" />
+    </weatherstation>
+    <weatherstation stno="32220" sttype="eklima" name="Lifjell" distance="16617" lat="59.50220" lon="8.98370" source="Meteorologisk Institutt">
+      <temperature unit="celsius" value="1.9" time="2015-11-05T15:00:00Z" />
+      <windDirection deg="203.0" code="SSW" name="South-southwest" time="2015-11-05T15:00:00Z" />
+      <windSpeed mps="2.0" name="Light breeze" time="2015-11-05T15:00:00Z" />
+    </weatherstation>
+  </observations>
+</weatherdata>

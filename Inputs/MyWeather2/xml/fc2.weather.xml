@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather>
+  <curren_weather>
+    <temp>13</temp>
+    <temp_unit>c</temp_unit>
+    <wind>
+      <speed>4</speed>
+      <dir>S</dir>
+      <wind_unit>kph</wind_unit>
+    </wind>
+    <humidity>100</humidity>
+    <pressure>1010</pressure>
+    <weather_text>Light Rain, Light Drizzle And Rain</weather_text>
+    <weather_code>61</weather_code>
+  </curren_weather>
+  <forecast>
+    <date>2015-11-05</date>
+    <temp_unit>c</temp_unit>
+    <day_max_temp>16</day_max_temp>
+    <night_min_temp>13</night_min_temp>
+    <day>
+      <weather_text>Overcast skies</weather_text>
+      <weather_code>3</weather_code>
+      <wind>
+        <speed>25</speed>
+        <dir>S</dir>
+        <dir_degree>188</dir_degree>
+        <wind_unit>kph</wind_unit>
+      </wind>
+    </day>
+    <night>
+      <weather_text>Overcast skies</weather_text>
+      <weather_code>3</weather_code>
+      <wind>
+        <speed>32</speed>
+        <dir>SW</dir>
+        <dir_degree>221</dir_degree>
+        <wind_unit>kph</wind_unit>
+      </wind>
+    </night>
+  </forecast>
+  <forecast>
+    <date>2015-11-06</date>
+    <temp_unit>c</temp_unit>
+    <day_max_temp>17</day_max_temp>
+    <night_min_temp>15</night_min_temp>
+    <day>
+      <weather_text>Light rain</weather_text>
+      <weather_code>61</weather_code>
+      <wind>
+        <speed>29</speed>
+        <dir>SSW</dir>
+        <dir_degree>200</dir_degree>
+        <wind_unit>kph</wind_unit>
+      </wind>
+    </day>
+    <night>
+      <weather_text>Light drizzle</weather_text>
+      <weather_code>51</weather_code>
+      <wind>
+        <speed>32</speed>
+        <dir>SW</dir>
+        <dir_degree>217</dir_degree>
+        <wind_unit>kph</wind_unit>
+      </wind>
+    </night>
+  </forecast>
+</weather>

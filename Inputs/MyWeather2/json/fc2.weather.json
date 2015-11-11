@@ -1,0 +1,91 @@
+{
+    "weather": {
+        "curren_weather": [
+            {
+                "humidity": "100",
+                "pressure": "1010",
+                "temp": "13",
+                "temp_unit": "c",
+                "weather_code": "61",
+                "weather_text": "Light Rain, Light Drizzle And Rain",
+                "wind": [
+                    {
+                        "dir": "S",
+                        "speed": "4",
+                        "wind_unit": "kph"
+                    }
+                ]
+            }
+        ],
+        "forecast": [
+            {
+                "date": "2015-11-05",
+                "day": [
+                    {
+                        "weather_code": "3",
+                        "weather_text": "Overcast skies",
+                        "wind": [
+                            {
+                                "dir": "S",
+                                "dir_degree": "188",
+                                "speed": "25",
+                                "wind_unit": "kph"
+                            }
+                        ]
+                    }
+                ],
+                "day_max_temp": "16",
+                "night": [
+                    {
+                        "weather_code": "3",
+                        "weather_text": "Overcast skies",
+                        "wind": [
+                            {
+                                "dir": "SW",
+                                "dir_degree": "221",
+                                "speed": "32",
+                                "wind_unit": "kph"
+                            }
+                        ]
+                    }
+                ],
+                "night_min_temp": "13",
+                "temp_unit": "c"
+            },
+            {
+                "date": "2015-11-06",
+                "day": [
+                    {
+                        "weather_code": "61",
+                        "weather_text": "Light rain",
+                        "wind": [
+                            {
+                                "dir": "SSW",
+                                "dir_degree": "200",
+                                "speed": "29",
+                                "wind_unit": "kph"
+                            }
+                        ]
+                    }
+                ],
+                "day_max_temp": "17",
+                "night": [
+                    {
+                        "weather_code": "51",
+                        "weather_text": "Light drizzle",
+                        "wind": [
+                            {
+                                "dir": "SW",
+                                "dir_degree": "217",
+                                "speed": "32",
+                                "wind_unit": "kph"
+                            }
+                        ]
+                    }
+                ],
+                "night_min_temp": "15",
+                "temp_unit": "c"
+            }
+        ]
+    }
+}

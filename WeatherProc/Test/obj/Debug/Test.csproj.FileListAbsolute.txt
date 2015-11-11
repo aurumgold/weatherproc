@@ -1,0 +1,12 @@
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\Test.exe.config
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\Test.exe
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\Test.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\WeatherProc.Business.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\WeatherProc.Data.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\WeatherProc.Business.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\WeatherProc.Data.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\obj\Debug\Test.exe
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\Test\obj\Debug\Test.pdb

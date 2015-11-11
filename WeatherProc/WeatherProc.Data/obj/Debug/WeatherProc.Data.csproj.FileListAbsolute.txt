@@ -1,0 +1,6 @@
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Data\bin\Debug\WeatherProc.Data.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Data\bin\Debug\WeatherProc.Data.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Data\obj\Debug\WeatherProc.Data.csprojResolveAssemblyReference.cache
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Data\obj\Debug\WeatherProc.Data.dll
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Data\obj\Debug\WeatherProc.Data.pdb
+C:\Users\Fishman\Desktop\C#\WeatherProc\WeatherProc\WeatherProc.Data\obj\Debug\WeatherProc.Data.g.resources

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<current>
+  <city id="2643743" name="London">
+    <coord lon="-0.13" lat="51.51"/>
+    <country>GB</country>
+    <sun rise="2015-11-05T07:01:35" set="2015-11-05T16:25:53"/>
+  </city>
+  <temperature value="286.524" min="286.524" max="286.524" unit="kelvin"/>
+  <humidity value="97" unit="%"/>
+  <pressure value="1013.89" unit="hPa"/>
+  <wind>
+    <speed value="6.01" name="Moderate breeze"/>
+    <gusts/>
+    <direction value="174.001" code="S" name="South"/>
+  </wind>
+  <clouds value="92" name="overcast clouds"/>
+  <visibility/>
+  <precipitation value="3.7475" mode="rain" unit="3h"/>
+  <weather number="501" value="moderate rain" icon="10n"/>
+  <lastupdate value="2015-11-05T16:35:58"/>
+</current>

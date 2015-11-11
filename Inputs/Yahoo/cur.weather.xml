@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
+    yahoo:count="1" yahoo:created="2015-11-05T18:57:23Z" yahoo:lang="ru">
+    <results>
+        <channel>
+            <title>Yahoo! Weather - Greenland, GL</title>
+            <link>http://us.rd.yahoo.com/dailynews/rss/weather/Greenland__GL/*http://weather.yahoo.com/forecast/GLXX0012_f.html</link>
+            <description>Yahoo! Weather for Greenland, GL</description>
+            <language>en-us</language>
+            <lastBuildDate>Thu, 05 Nov 2015 2:50 pm CGT</lastBuildDate>
+            <ttl>60</ttl>
+            <yweather:location
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                city="Greenland" country="Greenland" region=""/>
+            <yweather:units
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                distance="mi" pressure="in" speed="mph" temperature="F"/>
+            <yweather:wind
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                chill="9" direction="160" speed="3"/>
+            <yweather:atmosphere
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                humidity="36" pressure="29.74" rising="2" visibility="6.21"/>
+            <yweather:astronomy
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                sunrise="9:04 am" sunset="3:09 pm"/>
+            <image>
+                <title>Yahoo! Weather</title>
+                <width>142</width>
+                <height>18</height>
+                <link>http://weather.yahoo.com</link>
+                <url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+            </image>
+            <item>
+                <title>Conditions for Greenland, GL at 2:50 pm CGT</title>
+                <geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">71.8</geo:lat>
+                <geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">-42.18</geo:long>
+                <link>http://us.rd.yahoo.com/dailynews/rss/weather/Greenland__GL/*http://weather.yahoo.com/forecast/GLXX0012_f.html</link>
+                <pubDate>Thu, 05 Nov 2015 2:50 pm CGT</pubDate>
+                <yweather:condition
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="30" date="Thu, 05 Nov 2015 2:50 pm CGT"
+                    temp="9" text="Partly Cloudy"/>
+                <description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/30.gif"/><br />
+<b>Current Conditions:</b><br />
+Partly Cloudy, 9 F<BR />
+<BR /><b>Forecast:</b><BR />
+Thu - Sunny. High: 11 Low: -2<br />
+Fri - Sunny. High: 1 Low: -2<br />
+Sat - Partly Cloudy. High: 3 Low: 1<br />
+Sun - Mostly Sunny. High: 6 Low: -7<br />
+Mon - Sunny. High: -3 Low: -5<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Greenland__GL/*http://weather.yahoo.com/forecast/GLXX0012_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="32" date="5 Nov 2015" day="Thu" high="11"
+                    low="-2" text="Sunny"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="32" date="6 Nov 2015" day="Fri" high="1"
+                    low="-2" text="Sunny"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="30" date="7 Nov 2015" day="Sat" high="3"
+                    low="1" text="Partly Cloudy"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="34" date="8 Nov 2015" day="Sun" high="6"
+                    low="-7" text="Mostly Sunny"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="32" date="9 Nov 2015" day="Mon" high="-3"
+                    low="-5" text="Sunny"/>
+                <guid isPermaLink="false">GLXX0012_2015_11_09_7_00_CGT</guid>
+            </item>
+        </channel>
+    </results>
+</query>
